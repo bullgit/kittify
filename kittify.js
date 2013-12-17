@@ -3,7 +3,7 @@
  * 
  * Replace all images of your page with cute cats. 
  *
- * Idea & initial JS by Mads Cordes.
+ * Idea & initial JS by Mads Cordes. http://pastebin.com/9saLTFvU
  * WordPress-Plugin & optimized JS by Tim Pietrusky.
  * 
  * timpietrusky.com
@@ -15,9 +15,7 @@
   function kittify() {
     // Get all the images of the page
     var images = document.getElementsByTagName("img"), 
-        img, 
-        width, 
-        height;
+        img, width, height;
     
     // Replace the images with a placekitten image
     for (var i = 0; i < images.length; i++) {
