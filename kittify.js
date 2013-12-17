@@ -3,9 +3,13 @@
  * 
  * Replace all images of your page with cute cats. 
  *
- * Idea & initial JS by Mads Cordes. http://pastebin.com/9saLTFvU
+ * Idea & initial JS by Mads Cordes. 
+ * http://pastebin.com/9saLTFvU
+ *
  * WordPress-Plugin & optimized JS by Tim Pietrusky.
+ * https://github.com/bullgit/kittify
  * 
+ * 2013 by Tim Pietrusky
  * timpietrusky.com
  * 
  */
