@@ -6,7 +6,7 @@ Tested up to: 3.8
 Stable tag: trunk
 License: GPLv2 or later
 
-You really love your cat? Show it with Kittify and replace every image with a picture of a sweet kitty. 
+Replaces every picture with a sweet cat. Meow!
 
 == Description ==
 
