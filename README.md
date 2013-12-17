@@ -3,7 +3,7 @@
 You really love your cat? Show it with Kittify and replace every image with a picture of a sweet kitty using the 
 service of http://placekitten.com
 
-The initial idea was provided by [Mads Cordes](http://twitter.com/Mobilpadde). The WordPress-Plugin and the JS optimizations by [Tim Pietrusky](http://twitter.com/TimPietrusky). 
+The initial idea was provided by [Mads Cordes](http://twitter.com/Mobilpadde) (http://pastebin.com/9saLTFvU). The WordPress-Plugin and the JS optimizations by [Tim Pietrusky](http://twitter.com/TimPietrusky). 
 
 ## Installation
 
