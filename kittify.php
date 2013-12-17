@@ -17,7 +17,7 @@
   // Load the kittify.js
   function kittify_script() {
     if (!is_admin()) {
-      wp_register_script('kittify_js', plugins_url() . '/kittify/kittify.js', array(), '1.0.0'); 
+      wp_register_script('kittify_js', plugins_url() . '/' . basename(dirname(__FILE__)) . '/kittify.js', array(), '1.0.0'); 
       wp_enqueue_script('kittify_js'); 
     }
   }
