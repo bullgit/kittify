@@ -4,7 +4,7 @@
  */
 /*
   Plugin Name: Kittify
-  Plugin URI: https://github.com/bullgit/kittify
+  Plugin URI: http://wordpress.org/plugins/kittify/
   Description: You really love your cat? Show it with Kittify and replace every image with a picture of a sweet kitty. 
   Author: Tim Pietrusky
   Version: 1.0
